@@ -1,6 +1,6 @@
 # Chatman 🦇💬
 
-**Chatman** is a Batman-themed chat app powered by OpenAI's GPT‑4o. Ask anything and get a response from the Dark Knight himself.
+**Chatman** is a Batman-themed chat app powered by OpenAI's GPT‑4o-mini API. Ask anything and get a response from the Dark Knight himself.
 
 ![ChatMan Demo](./demo-screenshot.png)
 
@@ -9,7 +9,7 @@
 - 🦇 Batman stays in character — always.
 - 💬 Smooth, auto-scrolling chat interface.
 - ⚡ Typing indicator while waiting for response.
-- 🔗 Frontend + backend integrated for real GPT‑4o replies.
+- 🔗 Frontend + backend integrated for real GPT‑4o-mini replies.
 
 ---
 
